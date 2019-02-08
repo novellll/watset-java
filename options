@@ -1,0 +1,26 @@
+-classpath
+'/home/travis/.m2/repository/org/jheaps/jheaps/0.9/jheaps-0.9.jar:/home/travis/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/home/travis/.m2/repository/org/jgrapht/jgrapht-core/1.3.0/jgrapht-core-1.3.0.jar:/home/travis/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar'
+-encoding
+'UTF-8'
+-overview
+'/home/travis/build/nlpub/watset-java/src/main/javadoc/overview.html'
+-protected
+-sourcepath
+'/home/travis/build/nlpub/watset-java/src/main/java:/home/travis/build/nlpub/watset-java/src/main/javadoc'
+-author
+-bottom
+'Copyright &#169; 2016&#x2013;2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/travis/build/nlpub/watset-java/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'watset 2.0.0-beta13 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/travis/build/nlpub/watset-java/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'watset 2.0.0-beta13 API'
